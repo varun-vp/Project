@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/varun-vp/react-project/static/css/main.2f13f957.chunk.css",
+    "main.js": "/varun-vp/react-project/static/js/main.da8ee91a.chunk.js",
+    "main.js.map": "/varun-vp/react-project/static/js/main.da8ee91a.chunk.js.map",
+    "runtime-main.js": "/varun-vp/react-project/static/js/runtime-main.75e4c6fd.js",
+    "runtime-main.js.map": "/varun-vp/react-project/static/js/runtime-main.75e4c6fd.js.map",
+    "static/js/2.8a6de0f9.chunk.js": "/varun-vp/react-project/static/js/2.8a6de0f9.chunk.js",
+    "static/js/2.8a6de0f9.chunk.js.map": "/varun-vp/react-project/static/js/2.8a6de0f9.chunk.js.map",
+    "static/js/3.7543d41c.chunk.js": "/varun-vp/react-project/static/js/3.7543d41c.chunk.js",
+    "static/js/3.7543d41c.chunk.js.map": "/varun-vp/react-project/static/js/3.7543d41c.chunk.js.map",
+    "index.html": "/varun-vp/react-project/index.html",
+    "static/css/main.2f13f957.chunk.css.map": "/varun-vp/react-project/static/css/main.2f13f957.chunk.css.map",
+    "static/js/2.8a6de0f9.chunk.js.LICENSE.txt": "/varun-vp/react-project/static/js/2.8a6de0f9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/varun-vp/react-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75e4c6fd.js",
+    "static/js/2.8a6de0f9.chunk.js",
+    "static/css/main.2f13f957.chunk.css",
+    "static/js/main.da8ee91a.chunk.js"
+  ]
+}

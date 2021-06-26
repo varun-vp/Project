@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/varun-vp/Project.git/static/css/main.2f13f957.chunk.css",
-    "main.js": "/varun-vp/Project.git/static/js/main.5ee6e559.chunk.js",
-    "main.js.map": "/varun-vp/Project.git/static/js/main.5ee6e559.chunk.js.map",
-    "runtime-main.js": "/varun-vp/Project.git/static/js/runtime-main.708fa543.js",
-    "runtime-main.js.map": "/varun-vp/Project.git/static/js/runtime-main.708fa543.js.map",
-    "static/js/2.8a6de0f9.chunk.js": "/varun-vp/Project.git/static/js/2.8a6de0f9.chunk.js",
-    "static/js/2.8a6de0f9.chunk.js.map": "/varun-vp/Project.git/static/js/2.8a6de0f9.chunk.js.map",
-    "static/js/3.7543d41c.chunk.js": "/varun-vp/Project.git/static/js/3.7543d41c.chunk.js",
-    "static/js/3.7543d41c.chunk.js.map": "/varun-vp/Project.git/static/js/3.7543d41c.chunk.js.map",
-    "index.html": "/varun-vp/Project.git/index.html",
-    "static/css/main.2f13f957.chunk.css.map": "/varun-vp/Project.git/static/css/main.2f13f957.chunk.css.map",
-    "static/js/2.8a6de0f9.chunk.js.LICENSE.txt": "/varun-vp/Project.git/static/js/2.8a6de0f9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/varun-vp/Project.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/Project/static/css/main.2f13f957.chunk.css",
+    "main.js": "/Project/static/js/main.5ee6e559.chunk.js",
+    "main.js.map": "/Project/static/js/main.5ee6e559.chunk.js.map",
+    "runtime-main.js": "/Project/static/js/runtime-main.6cd777c5.js",
+    "runtime-main.js.map": "/Project/static/js/runtime-main.6cd777c5.js.map",
+    "static/js/2.8a6de0f9.chunk.js": "/Project/static/js/2.8a6de0f9.chunk.js",
+    "static/js/2.8a6de0f9.chunk.js.map": "/Project/static/js/2.8a6de0f9.chunk.js.map",
+    "static/js/3.7543d41c.chunk.js": "/Project/static/js/3.7543d41c.chunk.js",
+    "static/js/3.7543d41c.chunk.js.map": "/Project/static/js/3.7543d41c.chunk.js.map",
+    "index.html": "/Project/index.html",
+    "static/css/main.2f13f957.chunk.css.map": "/Project/static/css/main.2f13f957.chunk.css.map",
+    "static/js/2.8a6de0f9.chunk.js.LICENSE.txt": "/Project/static/js/2.8a6de0f9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Project/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.708fa543.js",
+    "static/js/runtime-main.6cd777c5.js",
     "static/js/2.8a6de0f9.chunk.js",
     "static/css/main.2f13f957.chunk.css",
     "static/js/main.5ee6e559.chunk.js"
